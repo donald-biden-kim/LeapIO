@@ -104,8 +104,8 @@ Runtime - (run on the SoC)
 
 
 - A Server with the following components
-  - >16 GB DRAM
-  - >8 CPU cores
+  - 16+ GB DRAM
+  - 8+ CPU cores
   - an NVMe SSD 
   - Broadcom StingRay SVK Board or a RDMA NIC (more details below)
 
